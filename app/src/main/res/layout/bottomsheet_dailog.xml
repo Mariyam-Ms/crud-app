@@ -32,7 +32,7 @@
             android:textSize="16sp"/>
     </LinearLayout>
     <LinearLayout
-        android:id="@+id/delete"
+        android:id="@+id/hDelete"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"

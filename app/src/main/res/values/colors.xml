@@ -13,4 +13,30 @@
     <color name="grey">#EAEBED</color>
     <color name="blue_200">#A1E1FA</color>
     <color name="light_100">#c4e8c2</color>
+
+
+    <!--Theme 1-->
+    <color name="sky1"> #5c474e</color>
+    <color name="sky2"> #6c5355</color>
+    <color name="sky3"> #826561</color>
+    <color name="sky4">#94746a </color>
+    <color name="sky5"> #a48072</color>
+    <color name="sky6"> #b9917c</color>
+    <color name="sky7"> #ca9f85</color>
+
+    <!--Theme2-->
+    <color name="beach1">#bcc0c9</color>
+    <color name="beach2">#959899</color>
+    <color name="beach3">#e8c3ae</color>
+    <color name="beach4">#a39397</color>
+    <color name="beach5">#e29381</color>
+    <color name="beach6">#e5c1cd</color>
+    <color name="beach7">#b6b4ce</color>
+    <color name="beach8">#c9bbc8</color>
+    <color name="beach9">#9f8189</color>
+    <color name="beach10">#53abb6</color>
+    <color name="green1">#b7b7a4</color>
+    <color name="green2">#6b705c</color>
+    <color name="lavender">#74617d</color>
+
 </resources>

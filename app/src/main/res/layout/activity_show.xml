@@ -20,6 +20,7 @@
     <ImageButton
         android:layout_width="80dp"
         android:layout_height="80dp"
+        android:background="@drawable/shape_1"
         android:src="@drawable/ic_baseline_add_24"
         android:id="@+id/add_imageBTn"
         app:layout_constraintEnd_toEndOf="parent"
